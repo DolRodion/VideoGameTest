@@ -1,0 +1,14 @@
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.DataAccess\bin\Debug\net6.0\VideoGameTest.DataAccess.deps.json
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.DataAccess\bin\Debug\net6.0\VideoGameTest.DataAccess.runtimeconfig.json
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.DataAccess\bin\Debug\net6.0\VideoGameTest.DataAccess.dll
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.DataAccess\bin\Debug\net6.0\VideoGameTest.DataAccess.pdb
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.DataAccess\obj\Debug\net6.0\VideoGameTest.DataAccess.csproj.AssemblyReference.cache
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.DataAccess\obj\Debug\net6.0\VideoGameTest.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.DataAccess\obj\Debug\net6.0\VideoGameTest.DataAccess.AssemblyInfoInputs.cache
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.DataAccess\obj\Debug\net6.0\VideoGameTest.DataAccess.AssemblyInfo.cs
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.DataAccess\obj\Debug\net6.0\VideoGameTest.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.DataAccess\obj\Debug\net6.0\VideoGameTest.DataAccess.dll
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.DataAccess\obj\Debug\net6.0\refint\VideoGameTest.DataAccess.dll
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.DataAccess\obj\Debug\net6.0\VideoGameTest.DataAccess.pdb
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.DataAccess\obj\Debug\net6.0\VideoGameTest.DataAccess.genruntimeconfig.cache
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.DataAccess\obj\Debug\net6.0\ref\VideoGameTest.DataAccess.dll

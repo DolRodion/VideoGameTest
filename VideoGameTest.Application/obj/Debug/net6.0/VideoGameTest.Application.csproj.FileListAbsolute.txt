@@ -1,0 +1,15 @@
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.Application\bin\Debug\net6.0\VideoGameTest.Application.deps.json
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.Application\bin\Debug\net6.0\VideoGameTest.Application.dll
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.Application\bin\Debug\net6.0\VideoGameTest.Application.pdb
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.Application\obj\Debug\net6.0\VideoGameTest.Application.csproj.AssemblyReference.cache
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.Application\obj\Debug\net6.0\VideoGameTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.Application\obj\Debug\net6.0\VideoGameTest.Application.AssemblyInfoInputs.cache
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.Application\obj\Debug\net6.0\VideoGameTest.Application.AssemblyInfo.cs
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.Application\obj\Debug\net6.0\VideoGameTest.Application.csproj.CoreCompileInputs.cache
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.Application\obj\Debug\net6.0\VideoGameTest.Application.dll
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.Application\obj\Debug\net6.0\refint\VideoGameTest.Application.dll
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.Application\obj\Debug\net6.0\VideoGameTest.Application.pdb
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.Application\obj\Debug\net6.0\ref\VideoGameTest.Application.dll
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.Application\bin\Debug\net6.0\VideoGameTest.DataAccess.dll
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.Application\bin\Debug\net6.0\VideoGameTest.DataAccess.pdb
+C:\Users\dolro\source\repos\VideoGameTest\VideoGameTest.Application\obj\Debug\net6.0\VideoGameTest.Application.csproj.CopyComplete
